@@ -1,0 +1,1 @@
+This utility is used to read the areas data created by the EnergyIndexCalculator.

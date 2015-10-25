@@ -1,0 +1,1 @@
+This utility is used to read the altimetry data created by the EnergyIndexCalculator.

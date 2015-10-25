@@ -1,0 +1,1 @@
+The data is assumed to be first col a date and then all the values for each id.

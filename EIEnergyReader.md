@@ -1,0 +1,1 @@
+This utility is used to read the energy data created by the EnergyIndexCalculator.

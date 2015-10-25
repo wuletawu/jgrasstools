@@ -1,0 +1,1 @@
+This utility is used to write the output of the models originally as geotools coverages into GRASS raster format (Location - Mapset).

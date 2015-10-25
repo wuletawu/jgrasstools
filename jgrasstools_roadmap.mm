@@ -1,0 +1,407 @@
+<map version="0.8.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1271939735815" ID="ID_305410663" MODIFIED="1271943429240" STYLE="fork" TEXT="jgrasstools">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+<node CREATED="1271943587835" ID="ID_360112046" MODIFIED="1271943598497" POSITION="right" TEXT="development">
+<node BACKGROUND_COLOR="#66ccff" CREATED="1271940065378" HGAP="129" ID="ID_1357337398" MODIFIED="1271967586973" STYLE="bubble" TEXT="hortonmachine" VSHIFT="-42">
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941145236" HGAP="48" ID="ID_240222846" MODIFIED="1271943329086" TEXT="dem manipulation" VSHIFT="-1">
+<node CREATED="1271942025355" ID="ID_173399259" MODIFIED="1271942046842" TEXT="Pitfiller">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942028480" ID="ID_1052064829" MODIFIED="1271942046841" TEXT="Wateroutlet">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942032637" ID="ID_1149779977" MODIFIED="1271967517127" TEXT="MarkOutlets">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942037097" ID="ID_1716393794" MODIFIED="1271967517128" TEXT="SplitSubbasin">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941155710" HGAP="59" ID="ID_946832856" MODIFIED="1271943297155" TEXT="geomorphology" VSHIFT="-1">
+<node CREATED="1271942062647" ID="ID_129464892" MODIFIED="1271942110720" TEXT="Ab">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942065107" ID="ID_1119718881" MODIFIED="1271942110722" TEXT="Aspect">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942070277" ID="ID_831666315" MODIFIED="1271942110722" TEXT="Curvatures">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942075685" ID="ID_1921469132" MODIFIED="1271942110721" TEXT="DrainDir">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942079404" ID="ID_761973557" MODIFIED="1271942949587" TEXT="FlowDirections" VSHIFT="-4">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942083582" ID="ID_355741865" MODIFIED="1271942110720" TEXT="Gradient">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942087448" ID="ID_1791310325" MODIFIED="1271967517129" TEXT="Tca">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942089157" ID="ID_1024634220" MODIFIED="1271967517134" TEXT="Tca3d">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942095057" ID="ID_379318750" MODIFIED="1271967517133" TEXT="MultiTca">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942099772" ID="ID_1459918039" MODIFIED="1271967517133" TEXT="Slope">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942102622" ID="ID_1545854894" MODIFIED="1271967517132" TEXT="Nabla">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271945974668" ID="ID_851687700" MODIFIED="1271967517131" TEXT="SkyviewFactor">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271945985028" ID="ID_302494728" MODIFIED="1271967517131" TEXT="ShadedRelief">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1272007223016" ID="Freemind_Link_703864013" MODIFIED="1272007231498" TEXT="Hillshade">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271948157467" ID="ID_266940309" MODIFIED="1271967517130" TEXT="Insolation">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271948161346" ID="ID_53361489" MODIFIED="1271967517130" TEXT="Irradiation">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941160487" HGAP="33" ID="ID_499353949" MODIFIED="1271946955265" TEXT="network related measures" VSHIFT="3">
+<node CREATED="1271942132703" ID="ID_1094783906" MODIFIED="1271942230508" TEXT="ExtractNetwork">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942137827" ID="ID_1517084743" MODIFIED="1271942837667" TEXT="NetNumbering">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1271942142720" ID="ID_903687898" MODIFIED="1271942230508" TEXT="Netshape2Flow">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942149764" ID="ID_1732278200" MODIFIED="1271967529378" TEXT="Distance2Outlet">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942159670" ID="ID_1700769967" MODIFIED="1271967529375" TEXT="Distance2Outlet3d">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942175130" ID="ID_1551588711" MODIFIED="1271967523711" TEXT="DrainageDensity">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942186811" ID="ID_984716117" MODIFIED="1271967523727" TEXT="HackLength">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942192674" ID="ID_1929260107" MODIFIED="1271967523727" TEXT="HackLength3d">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942196280" ID="ID_196795349" MODIFIED="1271967523726" TEXT="HackStream">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942199467" ID="ID_1255593597" MODIFIED="1271967523726" TEXT="Magnitudo">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942203979" ID="ID_426182423" MODIFIED="1271967523724" TEXT="Seol">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942206903" ID="ID_1246683348" MODIFIED="1271967523722" TEXT="Strahler">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942209947" ID="ID_506559885" MODIFIED="1271967523720" TEXT="NetDiff">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942217428" ID="ID_633937383" MODIFIED="1271967523718" TEXT="BasinShape">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942221526" ID="ID_893922363" MODIFIED="1271967523716" TEXT="Pfafstetter">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941166732" HGAP="29" ID="ID_1543973301" MODIFIED="1271943295444" TEXT="hillslope analyses" VSHIFT="7">
+<node CREATED="1271942256481" ID="ID_1899465379" MODIFIED="1271967538311" TEXT="Hillslope2ChannelAttribute">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942270456" ID="ID_40159583" MODIFIED="1271967538314" TEXT="Hillslope2ChannelDistance">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942276814" ID="ID_1920901599" MODIFIED="1271967538314" TEXT="Hillslope2ChannelDistance3d">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942314363" ID="ID_1014087629" MODIFIED="1271967538313" TEXT="Tau">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942281986" ID="ID_76831355" MODIFIED="1271967538312" TEXT="TopologicClasses">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942295000" ID="ID_293060538" MODIFIED="1271967538312" TEXT="GeomorphologicClasses">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941174402" HGAP="28" ID="ID_1936320530" MODIFIED="1271942691610" TEXT="basin attributes" VSHIFT="10">
+<node CREATED="1271942640191" ID="ID_1260158235" MODIFIED="1271942684998" TEXT="RescaledDistance">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942654358" ID="ID_608802447" MODIFIED="1271942684998" TEXT="TopIndex">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942658530" ID="ID_1093800748" MODIFIED="1271967549213" TEXT="RescaledDistance3d">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942664870" ID="ID_486365207" MODIFIED="1271967549214" TEXT="Diameters">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942670886" ID="ID_1878411763" MODIFIED="1271967549214" TEXT="DistEuclidea">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942676953" ID="ID_244942629" MODIFIED="1271967549213" TEXT="MeanDrop">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941180135" ID="ID_1279360600" MODIFIED="1271941230920" TEXT="statistics">
+<node CREATED="1271942718941" ID="ID_1807650958" MODIFIED="1271942756505" TEXT="Cb">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942729229" ID="ID_679111411" MODIFIED="1271942756506" TEXT="Jami">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942731125" ID="ID_1518169721" MODIFIED="1272007262071" TEXT="Kriging">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942734351" ID="ID_132058806" MODIFIED="1271967549212" TEXT="SumDownstream">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942739701" ID="ID_1790289855" MODIFIED="1271967549209" TEXT="Variogram">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942742991" ID="ID_403206014" MODIFIED="1271967549209" TEXT="Hypsographic">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1271941183284" ID="ID_1811119168" MODIFIED="1271941230919" TEXT="hydrogeomorphology">
+<node CREATED="1271942766583" ID="ID_419547727" MODIFIED="1271942801772" TEXT="Adige">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1271942771044" ID="ID_1154613219" MODIFIED="1271942807204" TEXT="EnergyBalance">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942776072" ID="ID_1337228282" MODIFIED="1271942807205" TEXT="EnergyIndexCalculator">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942783107" ID="ID_323247229" MODIFIED="1271942807205" TEXT="Peakflow">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942786706" ID="ID_1063795929" MODIFIED="1271942807204" TEXT="Shalstab">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271942790156" ID="ID_1609383212" MODIFIED="1271967549208" TEXT="SaintGeo">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271942794551" ID="ID_702195600" MODIFIED="1271967549207" TEXT="Trasmissivity">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ff0033" COLOR="#000000" CREATED="1271940050358" HGAP="124" ID="ID_1779074129" MODIFIED="1271946954759" STYLE="bubble" TEXT="jgrassgears" VSHIFT="-216">
+<node BACKGROUND_COLOR="#cc3300" CREATED="1271940417633" HGAP="157" ID="ID_1594757295" MODIFIED="1271943167417" TEXT="raster modules" VSHIFT="24">
+<node CREATED="1271940462739" ID="ID_143581259" MODIFIED="1271940634305" TEXT="CoverageReprojector">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940472527" ID="ID_1365515520" MODIFIED="1271940634306" TEXT="Mapcalc">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940476844" ID="ID_1613088970" MODIFIED="1271940634306" TEXT="ScanLineRasterizer">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1271944220768" ID="ID_259746437" MODIFIED="1271944238212" TEXT="Polygon">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271944230641" ID="ID_1423507043" MODIFIED="1271967567537" TEXT="Line">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944233174" ID="ID_1579776455" MODIFIED="1271967567535" TEXT="Point">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1271940487680" ID="ID_1457729560" MODIFIED="1271967567538" TEXT="CutOut">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271940493966" ID="ID_1682042945" MODIFIED="1271967567558" TEXT="Mosaic">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271940500656" ID="ID_1641885463" MODIFIED="1271967567558" TEXT="Profile">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271940503734" ID="ID_1942166005" MODIFIED="1271967567557" TEXT="Summary">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944074360" ID="ID_473486356" MODIFIED="1271967567556" TEXT="Dilation">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944083258" ID="ID_1743102434" MODIFIED="1271967567555" TEXT="Erosion">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944120704" ID="ID_1057760562" MODIFIED="1271967567553" TEXT="Thinner">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944135846" ID="ID_192962073" MODIFIED="1271967567551" TEXT="MedialAxisRaster">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944311272" ID="ID_1197135304" MODIFIED="1271967567549" TEXT="Labeller">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944349047" ID="ID_1307739382" MODIFIED="1271967567548" TEXT="Hough">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944088214" ID="ID_1954284506" MODIFIED="1271967567546" TEXT="EdgeDetection">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1271944100304" ID="ID_399014773" MODIFIED="1271967567533" TEXT="Canny">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944110092" ID="ID_1366833018" MODIFIED="1271967567528" TEXT="PeronaMalik">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1271944151519" ID="ID_832269655" MODIFIED="1271967567544" TEXT="Dtmgeneration">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944167320" ID="ID_1608408476" MODIFIED="1271967567542" TEXT="Contouring">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271945941131" ID="ID_1825578020" MODIFIED="1271967567540" TEXT="ImageClassificator">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944104090" ID="ID_525931289" MODIFIED="1271967567531" TEXT="Openness">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cc3300" CREATED="1271940431603" HGAP="154" ID="ID_428717078" MODIFIED="1271943203654" TEXT="vector modules" VSHIFT="2">
+<node CREATED="1271940667820" ID="ID_1799201426" MODIFIED="1271940714572" TEXT="ContourLinesLabeler">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940676310" ID="ID_1747410604" MODIFIED="1271940714573" TEXT="FeatureReprojector">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940682617" ID="ID_1166597032" MODIFIED="1271940714572" TEXT="MarchingSquaresVectorializer">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940699565" ID="ID_1303950870" MODIFIED="1271940714572" TEXT="LineSmoother">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940705664" ID="ID_1767604359" MODIFIED="1271967576663" TEXT="AddAttributes">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271944650288" ID="ID_228950933" MODIFIED="1271967576668" TEXT="MedialAxisVector">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cc0000" CREATED="1272007149046" HGAP="167" ID="_" MODIFIED="1272007178859" TEXT="lidar" VSHIFT="15">
+<node CREATED="1271946168924" ID="ID_777377083" MODIFIED="1272007163018" TEXT="Filter">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cc3300" CREATED="1271940439824" HGAP="146" ID="ID_133142987" MODIFIED="1271943176386" TEXT="input/output" VSHIFT="-39">
+<node CREATED="1271940749918" HGAP="33" ID="ID_253892394" MODIFIED="1271943208996" TEXT="generic" VSHIFT="-7">
+<node CREATED="1271940792157" ID="ID_427670378" MODIFIED="1271941030261" TEXT="ArcgridCoverageReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940807142" ID="ID_966770560" MODIFIED="1271941030262" TEXT="ArcgridCoverageWriter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940900919" ID="ID_1910741758" MODIFIED="1271941030265" TEXT="GrassCoverageReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940909256" ID="ID_1902443582" MODIFIED="1271941030265" TEXT="GrassCoverageWriter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940921614" ID="ID_1842823645" MODIFIED="1271941030265" TEXT="ShapefileFeatureReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940930467" ID="ID_106205990" MODIFIED="1271941030264" TEXT="ShapefileFeatureWriter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940959445" ID="ID_502046017" MODIFIED="1271941030264" TEXT="GeoTiffCoverageReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940961631" ID="ID_1268154342" MODIFIED="1271941030264" TEXT="GeoTiffCoverageWriter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940979190" ID="ID_846570527" MODIFIED="1271941030263" TEXT="TimeseriesReaderArray">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940981636" ID="ID_921782530" MODIFIED="1271941030263" TEXT="TimeseriesWriterArray">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271941009145" ID="ID_374375673" MODIFIED="1271941030262" TEXT="TimeseriesByStepReaderId2Value">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271941011731" ID="ID_890721909" MODIFIED="1271941030262" TEXT="TimeseriesByStepWriterId2Value">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271941045538" ID="ID_1039928602" MODIFIED="1271941048587" TEXT="PlainId2ValueReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271941088382" ID="ID_1325913775" MODIFIED="1271941093815" TEXT="Id2ValueArrayReader">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1271940780744" ID="ID_1868631714" MODIFIED="1271943544064" TEXT="modelutils" VSHIFT="1">
+<node CREATED="1271940828204" ID="ID_542152702" MODIFIED="1271941055411" TEXT="AdigeBoundaryConditionReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940842726" ID="ID_302786582" MODIFIED="1271941055414" TEXT="AdigeBoundaryConditionWriter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940848653" ID="ID_697011001" MODIFIED="1271941055413" TEXT="VegetationLibraryReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940856193" ID="ID_666524178" MODIFIED="1271941055413" TEXT="VegetationLibraryWriter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940861558" ID="ID_681557600" MODIFIED="1271941055413" TEXT="EIAltimetryReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940871113" ID="ID_1458743175" MODIFIED="1271941055412" TEXT="EIAreasReader">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1271940876882" ID="ID_351616611" MODIFIED="1271941055412" TEXT="EIEnergyReader">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1271946789825" HGAP="304" ID="ID_746150406" MODIFIED="1271946847646" STYLE="bubble" TEXT="edc" VSHIFT="-98"/>
+</node>
+<node CREATED="1271943601795" HGAP="120" ID="ID_416919996" MODIFIED="1271946805733" POSITION="right" TEXT="documentation" VSHIFT="29">
+<node CREATED="1271943699434" ID="ID_1271525291" MODIFIED="1271943713688" STYLE="bubble" TEXT="manuals"/>
+<node CREATED="1271943702615" ID="ID_829986417" MODIFIED="1271946735970" STYLE="bubble" TEXT="website" VSHIFT="12"/>
+</node>
+<node CREATED="1271943643891" ID="ID_819537387" MODIFIED="1271943855983" POSITION="right" TEXT="jgrass migration" VSHIFT="67">
+<node CREATED="1271943761436" ID="ID_1259361972" MODIFIED="1272006980371" STYLE="bubble" TEXT="drop of old commands system" VSHIFT="-12">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271943771530" ID="ID_644964762" MODIFIED="1272006980371" STYLE="bubble" TEXT="drop of the GRASS workspace dependency (generic data)">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271943794040" HGAP="21" ID="ID_765243159" MODIFIED="1271946746818" STYLE="bubble" TEXT="jconsole for OMS3" VSHIFT="9">
+<node CREATED="1271943895113" ID="ID_1769754369" MODIFIED="1272006974413" TEXT="syntax highlight">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1271943913296" ID="ID_482684621" MODIFIED="1272006974412" TEXT="command completion support">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1271943921088" ID="ID_396335480" MODIFIED="1272006986102" TEXT="integration with the GUI, layer/project/map support">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1271943953685" ID="ID_1105856682" MODIFIED="1272006986103" TEXT="modules for database connectivity">
+<arrowlink DESTINATION="ID_746150406" ENDARROW="Default" ENDINCLINATION="296;0;" ID="Arrow_ID_255725236" STARTARROW="None" STARTINCLINATION="296;0;"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1271943802131" HGAP="21" ID="ID_1380784526" MODIFIED="1272006995447" STYLE="bubble" TEXT="visual console as main command execution environment" VSHIFT="8">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1271943986085" ID="ID_717641645" MODIFIED="1271943997293" TEXT="GEF enabled modeling system"/>
+</node>
+<node CREATED="1271943857102" ID="ID_1548721778" MODIFIED="1272006999327" STYLE="bubble" TEXT="release of last old JGrass version" VSHIFT="8">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1271944011001" ID="ID_159694565" MODIFIED="1271944025833" TEXT="release the migg2010 version"/>
+</node>
+</node>
+</node>
+</map>

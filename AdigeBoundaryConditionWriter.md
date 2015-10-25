@@ -1,0 +1,1 @@
+Boundary conditions can then be read using the AdigeBoundaryConditionReader. This option is useful to restart long simulations or if you need to stop a simulation for some checks. Boundary conditions file is in binary format.

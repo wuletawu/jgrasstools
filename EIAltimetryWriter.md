@@ -1,0 +1,1 @@
+This utility is used in EnergyIndexCalculator to write results altimetry data into a csv file that can then be read using [EIAltimetryReader](EIAltimetryReader.md).

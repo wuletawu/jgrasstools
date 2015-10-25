@@ -1,0 +1,1 @@
+This is an utility model to use geotiff raster data into the JGrass modules, in this way the data will be available for the models as geotools coverage.

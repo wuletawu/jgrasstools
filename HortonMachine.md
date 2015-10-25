@@ -1,0 +1,9 @@
+The availability of large elevation data sets of high resolution calls for reliable and automatic tools for extracting basin characteristics and information that could integrate ground survey.
+
+Analysis of DEMs to capture hydrological and geomorphological features has been a issue of large interest during the last decades (see _Wilson and Gallant; 2000; Band, 1993; Costa-Cabral and Burges, 1994; Rigon et al., 1996; Tarboton, 1997_) and allowed a great progress in understanding processes acting on the mountain landscape (e.g. _Rodriguez-Iturbe and Rinaldo, 1997_).
+
+<p align='center'><img src='http://wiki.jgrasstools.googlecode.com/git/images/frontpage/hm.png' alt='Horton Machine' /></p>
+
+All the quantitative analyses start from geometrical first attributes, elevation, slope, area and curvatures but many other derived quantities are analyzed, divided in se. The Horton machine provides a comprehensive set of tools for doing geomorphometry analysis.
+
+[This e-book](http://www.ing.unitn.it/dica/tools/download/Quaderni/Horton%20manual.pdf) extensively introduces them and provides references to the related literature. The Horton machine is embedded in the [JGrass GIS system](http://www.jgrass.org) and is, as well, open source, distributed with source code under the GPL license and programmed in Java. The tools include, besides the first attribute, basic routines for DEM manipulation, various codes for contributing areas estimation, for basin related analyses, and network related measures and classifications; tools for hillslope analysis and for performing DEM statistics. Also full hydrological and geomorphological models are available as the Shalstab, Peakflow and Adige models.

@@ -1,0 +1,1 @@
+This is an utility model to convert all the data read as geotools coverages into arcgrid raster format.

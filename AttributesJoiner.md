@@ -1,0 +1,1 @@
+This module joins two different set of attributes of a feature collection using as reference one specified common field.
